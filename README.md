@@ -20,8 +20,7 @@ step 8. End
 ## Program:
 ```
 /*
-Program to implement the multivariate linear regression
- model for predicting the price of the house and number
+Program to implement the multivariate linear regression model for predicting the price of the house and number
 of occupants in the house with SGD regressor.
 Developed by: Narra Ramya
 RegisterNumber:212223040128
